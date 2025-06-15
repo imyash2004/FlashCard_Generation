@@ -36,6 +36,8 @@ Transform your educational content into effective study flashcards using AI! Thi
    - Push your code to GitHub
    - Connect your GitHub repo to [Streamlit Cloud](https://streamlit.io/cloud)
    - The app will automatically deploy
+   
+   **Live Link:** [https://imyash2004-flashcard-generation-app-ccjhuf.streamlit.app/](https://imyash2004-flashcard-generation-app-ccjhuf.streamlit.app/)
 
 ## How to Use
 
